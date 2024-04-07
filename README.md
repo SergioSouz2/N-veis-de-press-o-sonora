@@ -26,3 +26,4 @@ interior de uma residência.
 8. As frequências relativas;
 9. Os pontos médios das classes;
 10. As frequências acumuladas;
+![image](https://github.com/SergioSouz2/Niveis-de-pressao-sonora/assets/123169013/986933b4-ed2e-4ebf-8f94-35f2e17301fe)
