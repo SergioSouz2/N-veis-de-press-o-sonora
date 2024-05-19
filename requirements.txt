@@ -3,6 +3,6 @@ pandas
 numpy 
 plotly.express 
 altair
-plotly.graph_objects
+plotly
 
 
