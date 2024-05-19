@@ -3,5 +3,5 @@ streamlit
 altair
 plotly
 numpy
-
+openpyxl
 
